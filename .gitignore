@@ -1,0 +1,4 @@
+.idea/
+ThirdPartyDependency/vendor/
+SettingEnvironmentWithComposer/vendor/
+phpdotenv/vendor/
